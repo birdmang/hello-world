@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-New Day
+Taking the plunge and learning the world of programming/coding.  
